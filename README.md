@@ -21,6 +21,7 @@ Each website will have the following basic folder structure:
 > *Note:* Checked items are expected to exist on every Ignia website.
 
 ## Build Structure
+Most projects will be part of a build process, which provides the additional structure on top of the website structure:
 - [x] [Builds](./Builds/)
   - [x] [Development](./Builds/Development/)
   - [x] [Production](./Builds/Production/)
