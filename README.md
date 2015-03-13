@@ -1,4 +1,4 @@
-# Ignia Directory Structure
+# Ignia Website Structure
 
 As Ignia collaborates with a variety of developers, having a consistent, predictable organizational structure for projects is critical. This project establishes the baseline directory structure for all Ignia projects.
 
