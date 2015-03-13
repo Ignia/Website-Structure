@@ -18,6 +18,8 @@ Each website will have the following basic folder structure:
 - [x] [Views](./Builds/Development/Views/)
   - [x] [Shared](./Builds/Development/Views/Shared/)
 
+> *Note:* Checked items are expected to exist on every Ignia website.
+
 ## Build Structure
 - [x] [Builds](./Builds/)
   - [x] [Development](./Builds/Development/)
@@ -25,8 +27,6 @@ Each website will have the following basic folder structure:
 - [x] [Source](./Source/)
   - [x] [Styles](./Source/Styles/)
   - [x] [Scripts](./Source/Scripts/)
-  - [ ] [Dependencies](./Source/Dependencies/)
-
-> *Note:* Checked items are expected to exist on every Ignia website.
+  - [x] [Dependencies](./Source/Dependencies/)
 
 <small>*Ignia is a registered trademark of Ignia, LLC*</small>
