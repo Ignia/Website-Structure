@@ -1,6 +1,6 @@
 # Styles Directory
 
-Any pre-process stylesheets will go in this directory. For Bootstrap based projects, this means the Boostrap LESS distribution; for most other projects, it will be Sass files.
+Any pre-process stylesheets will go in this directory. For Bootstrap-based projects, this means the Boostrap LESS distribution; for most other projects, it will be Sass files.
 
 ## Files
 Typically, the base directory structure will include:
