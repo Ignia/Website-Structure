@@ -6,17 +6,17 @@ As Ignia collaborates with a variety of developers, having a consistent, predict
 
 ## Website Structure
 Each website will have the following basic folder structure:
-- [x] [Images](./Builds/Development/Images/)
+- [x] [Images](./Static/Images/)
   - [ ] Layout
   - [ ] Photos
   - [ ] Icons
-- [x] [Shared](./Builds/Development/Shared/)
-  - [x] [Fonts](./Builds/Development/Shared/Fonts/)
-  - [x] [Scripts](./Builds/Development/Shared/Scripts/)
-    - [ ] [Vendor](./Builds/Development/Shared/Scripts/Vendor/)
-  - [x] [Styles](./Builds/Development/Shared/Styles/)
-- [x] [Views](./Builds/Development/Views/)
-  - [x] [Shared](./Builds/Development/Views/Shared/)
+- [x] [Shared](./Static/Shared/)
+  - [x] [Fonts](./Static/Shared/Fonts/)
+  - [x] [Scripts](./Static/Shared/Scripts/)
+    - [ ] [Vendor](./Static/Shared/Scripts/Vendor/)
+  - [x] [Styles](./Static/Shared/Styles/)
+- [x] [Views](./Static/Views/)
+  - [x] [Shared](./Static/Views/Shared/)
 
 > *Note:* Checked items are expected to exist on every Ignia website.
 
@@ -29,5 +29,6 @@ Most projects will be part of a build process, which provides the additional str
   - [x] [Styles](./Source/Styles/)
   - [x] [Scripts](./Source/Scripts/)
   - [x] [Dependencies](./Source/Dependencies/)
+- [x] [Static](./Static/)
 
 <small>*Ignia is a registered trademark of Ignia, LLC*</small>
